@@ -1,6 +1,4 @@
 this is my first project
-this is my second project
 
-create an avatar for user
 
-login and logout
+this is my last commit
