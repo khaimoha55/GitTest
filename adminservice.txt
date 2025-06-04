@@ -1,7 +1,3 @@
 manage database
-<<<<<<< HEAD
 closing the connection
 
-=======
-closing the connection
->>>>>>> feature2
