@@ -1,4 +1,8 @@
 manage database
 closing the connection
 
+<<<<<<< HEAD
 change in my database connection
+=======
+change to database khaiyum
+>>>>>>> feature3
